@@ -1,0 +1,7 @@
+<h1>List of Contacts</h1>
+
+<% @contacts.each do |c| %>
+	<%= c.Name %><br>
+<% end %>
+
+<p>Here's the <%= link_to 'signed request info', salesforce_path %>.</p>
