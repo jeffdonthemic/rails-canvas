@@ -58,5 +58,3 @@ After enter your password, you should see:
 You'll want to visit https://localhost in your browser and accept any warning due to a perceived certificate error. This will block your Canvas app from running.
 
 Now you can go to the Chatter tab and access your application from the left sidebar. If everything works correctly, you should see a list of 10 contacts. There's also a page that displays your connection from Force.com.
-    
-
